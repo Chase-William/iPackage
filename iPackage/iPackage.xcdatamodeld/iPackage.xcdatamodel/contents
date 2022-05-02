@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19206" systemVersion="21E230" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="NugetPackage" representedClassName=".NugetPackage" syncable="YES">
+        <attribute name="authors" optional="YES" attributeType="String"/>
+        <attribute name="iconUrl" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="licenseUrl" optional="YES" attributeType="String"/>
+        <attribute name="owners" optional="YES" attributeType="String"/>
+        <attribute name="packageDescription" optional="YES" attributeType="String"/>
+        <attribute name="packageTypes" optional="YES" attributeType="String"/>
+        <attribute name="projectUrl" optional="YES" attributeType="String"/>
+        <attribute name="registration" optional="YES" attributeType="String"/>
+        <attribute name="summary" optional="YES" attributeType="String"/>
+        <attribute name="tags" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="totalDownloads" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="verified" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="version" optional="YES" attributeType="String"/>
+        <attribute name="versions" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="NugetPackage" positionX="-63" positionY="-18" width="128" height="269"/>
+    </elements>
+</model>
